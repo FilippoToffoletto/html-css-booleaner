@@ -22,7 +22,7 @@ main{
 
 header h1{
   margin: 5px;
-  width: 800px;
+  width: 90%;
 
 }
 .banner{
@@ -67,5 +67,22 @@ header h1{
   text-align: left;
 }
 
+table{
+  width: 100%;
+  text-align: left;
+  margin: 0%;
+  border: 0ch;
+}
 
+thead{
+  background-color: #20A9E5;
+  color: white;
+}
+
+.riga-azzurra{
+  background-color: #B1E5F2;
+}
+tbody{
+  width: 50%;
+}
 
