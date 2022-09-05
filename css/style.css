@@ -10,8 +10,9 @@ p{
   padding-bottom: 20px;
 }
 
-header, main, footer{
+main, footer{
   padding-bottom: 20px;
+  padding: 20px;
 }
 main, footer{
   margin: 5px;
@@ -19,6 +20,9 @@ main, footer{
   width: 90%;
   text-align: center;
   margin-bottom: 20px;
+}
+.logo, .copyright{
+  padding: 20px;
 }
 
 header h1{
@@ -41,8 +45,8 @@ header h1{
 .logo{
   background-image: url('../img/img/logo.svg');
   background-repeat: no-repeat;
+  background-size: cover;
 }
-
 
 .container{
   width: 90%;
@@ -72,12 +76,14 @@ table{
   width: 100%;
   text-align: left;
   margin: 0%;
-  border: 0ch;
-  margin-bottom: 20px;}
+  border: 0;
+  margin-bottom: 20px;
+}
 
 thead{
   background-color: #20A9E5;
   color: white;
+  
 }
 
 .riga-azzurra{
