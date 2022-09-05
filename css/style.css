@@ -9,7 +9,7 @@ header h1{
 }
 .banner{
   background-image: url('../img/img/pattern.png');
-  background-color: aqua;
+  background-color: #4EA0FF;
   height: 80px;
   background-position: center;
   background-size: contain;
@@ -26,5 +26,10 @@ header h1{
 span{
   color: blue;
 }
+
+.tim{
+  font-size: 0.5rem;
+}
+
 
 
