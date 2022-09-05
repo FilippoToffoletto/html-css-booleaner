@@ -1,0 +1,30 @@
+*{
+  margin: 0%;
+}
+
+header h1{
+  margin: 20px;
+  width: 800px;
+
+}
+.banner{
+  background-image: url('../img/img/pattern.png');
+  background-color: aqua;
+  height: 80px;
+  background-position: center;
+  background-size: contain;
+  /* background-size: cover; */
+  /* width: 100%;  */
+  /* background-repeat: repeat-x; */
+}
+
+.logo{
+  background-image: url('../img/img/logo.svg');
+  background-repeat: no-repeat;
+}
+
+span{
+  color: blue;
+}
+
+
